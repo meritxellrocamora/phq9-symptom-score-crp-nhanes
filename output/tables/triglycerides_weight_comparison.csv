@@ -1,0 +1,7 @@
+weights,subtype,mean,se,p_omnibus,p_pairwise_imd_vs_non_imd
+Fasting subsample (WTSAF2YR / 3),No depression,113.51,1.573,0.010451543292484622,0.04903166227252913
+Fasting subsample (WTSAF2YR / 3),Non-IMD depression,116.43,13.383,0.010451543292484622,0.04903166227252913
+Fasting subsample (WTSAF2YR / 3),IMD,144.44,9.723,0.010451543292484622,0.04903166227252913
+Examination weight / 3 (previous analysis),No depression,114.83,1.669,0.009233100772969698,0.0270068092811795
+Examination weight / 3 (previous analysis),Non-IMD depression,115.28,12.783,0.009233100772969698,0.0270068092811795
+Examination weight / 3 (previous analysis),IMD,143.84,9.425,0.009233100772969698,0.0270068092811795

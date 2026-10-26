@@ -1,0 +1,8 @@
+quantity,n_unweighted,denominator,pct_weighted,ci_lo,ci_hi,rao_scott_p
+Symptom score >= 6,791,1046,74.807,70.723,78.891,NA
+CRP > 1 mg/L,779,1046,73.475,70.283,76.667,NA
+Both (IMD approximation),594,1046,55.117,50.029,60.206,NA
+CRP > 1 mg/L among AES >= 6,594,791,73.679,69.601,77.758,NA
+CRP > 1 mg/L among AES < 6,185,255,72.868,65.101,80.636,NA
+Expected both if independent (product of marginals),NA,1046,54.964,NA,NA,0.866
+"Difference, high minus low symptom score (points)",NA,NA,0.8,-8.8,10.5,0.866

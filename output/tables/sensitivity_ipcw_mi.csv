@@ -1,0 +1,2 @@
+analysis,n_total,n_depressed,n_imd,imd_prev,imd_ci,df
+IPCW + MI (m = 20),11340,1046,594,54.8,(49.8-59.8),43.1

@@ -1,0 +1,31 @@
+Marker,Subtype,Survey-weighted mean,SE,n,Residual df,Weights,p omnibus (unadj),p omnibus (FDR adj),p pairwise (unadj),p pairwise (FDR adj)
+BMI (kg/m²),No depression,29.12,0.158,11257,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+BMI (kg/m²),"Depression, criteria not met",27.53,0.315,11257,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+BMI (kg/m²),"Depression, criteria met",31.71,0.402,11257,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+Waist circumference (cm),No depression,99.7,0.395,11057,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+Waist circumference (cm),"Depression, criteria not met",95.2,0.921,11057,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+Waist circumference (cm),"Depression, criteria met",105.77,1.015,11057,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+HbA1c (%),No depression,5.64,0.019,11331,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+HbA1c (%),"Depression, criteria not met",5.59,0.052,11331,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+HbA1c (%),"Depression, criteria met",5.84,0.053,11331,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+Total cholesterol (mg/dL),No depression,190.24,0.798,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.067,0.086,0.151,0.195
+Total cholesterol (mg/dL),"Depression, criteria not met",189.86,3.81,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.067,0.086,0.151,0.195
+Total cholesterol (mg/dL),"Depression, criteria met",196.68,3.055,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.067,0.086,0.151,0.195
+HDL cholesterol (mg/dL),No depression,54.74,0.38,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+HDL cholesterol (mg/dL),"Depression, criteria not met",55.81,0.828,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+HDL cholesterol (mg/dL),"Depression, criteria met",50.87,0.876,11266,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,<0.001,<0.001,<0.001
+Triglycerides (mg/dL),No depression,113.51,1.573,5355,43,Fasting subsample (WTSAF2YR / 3),0.010,0.016,0.049,0.074
+Triglycerides (mg/dL),"Depression, criteria not met",116.43,13.383,5355,43,Fasting subsample (WTSAF2YR / 3),0.010,0.016,0.049,0.074
+Triglycerides (mg/dL),"Depression, criteria met",144.44,9.723,5355,43,Fasting subsample (WTSAF2YR / 3),0.010,0.016,0.049,0.074
+CRP (mg/L),No depression,2.46,0.043,11340,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,NA,<0.001,NA
+CRP (mg/L),"Depression, criteria not met",1.77,0.109,11340,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,NA,<0.001,NA
+CRP (mg/L),"Depression, criteria met",3.68,0.12,11340,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,<0.001,NA,<0.001,NA
+NLR,No depression,2.11,0.017,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.838,0.838,0.621,0.650
+NLR,"Depression, criteria not met",2.15,0.06,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.838,0.838,0.621,0.650
+NLR,"Depression, criteria met",2.12,0.05,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.838,0.838,0.621,0.650
+PLR,No depression,124.85,0.755,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.004,0.007,<0.001,0.002
+PLR,"Depression, criteria not met",131.71,2.706,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.004,0.007,<0.001,0.002
+PLR,"Depression, criteria met",119.59,2.941,11298,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.004,0.007,<0.001,0.002
+SII,No depression,510.66,4.202,11296,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.077,0.087,0.650,0.650
+SII,"Depression, criteria not met",546.61,17.24,11296,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.077,0.087,0.650,0.650
+SII,"Depression, criteria met",536.57,16.998,11296,43,Examination (2015-2018) / phlebotomy (2021-2023) / 3,0.077,0.087,0.650,0.650

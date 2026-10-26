@@ -1,0 +1,13 @@
+stratifier,group,n_depressed,n_imd,pct_weighted,logit_ci_lo,logit_ci_hi,kg_ci_lo,kg_ci_hi,deff,effective_n,design_df,ci_width_kg,rel_width_kg,nchs_status
+Overall,All depressed adults,1046,594,55.1173,49.993,60.1353,49.875,60.2766,2.6964,387.92380000000003,45,10.4016,18.8717,Meets standard
+Race/Ethnicity,NH White,523,303,56.0611,49.195,62.7027,48.9935,62.9515,2.369,220.7637,34,13.958,24.8979,Meets standard
+Race/Ethnicity,NH Black,164,77,47.139,34.3978,60.2642,33.5889,61.0049,2.6635,61.5723,22,27.416,58.16,Meets standard
+Race/Ethnicity,NH Asian,49,17,33.6502,20.6996,49.6321,19.6802,50.0785,0.924,53.0296,9,30.3983,90.3363,Does not meet standard (interval width 30 points or more)
+Race/Ethnicity,Mexican American,113,74,60.3233,49.6257,70.1171,49.2714,70.6525,1.0633,106.2681,12,21.3811,35.4442,Meets standard
+Race/Ethnicity,Other Hispanic,116,71,56.0887,45.8221,65.8593,45.4544,66.3276,1.0908,106.3466,18,20.8732,37.2147,Meets standard
+Race/Ethnicity,Other/Multi-Racial,81,52,59.8919,41.006100000000004,76.2355,39.8595,77.7647,2.5006,32.3927,16,37.9052,63.2894,Does not meet standard (interval width 30 points or more)
+Sex,Male,426,224,50.175,44.169,56.176,43.9987,56.3475,1.5233,279.6576,44,12.3488,24.6115,Meets standard
+Sex,Female,620,370,58.5759,52.4913,64.4095,52.3403,64.6145,2.2511,275.4151,44,12.2743,20.9545,Meets standard
+Age group,20-39,343,175,49.4094,43.4934,55.342,43.3296,55.5021,1.1868,289.017,40,12.1724,24.6359,Meets standard
+Age group,40-59,354,201,57.3861,48.196,66.0928,47.8507,66.5339,2.903,121.9435,43,18.6832,32.5571,Meets standard
+Age group,60+,349,218,61.3723,54.5162,67.8052,54.3452,68.0661,1.607,217.1761,41,13.7209,22.3569,Meets standard
