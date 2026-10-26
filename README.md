@@ -1,6 +1,6 @@
-# Immuno-metabolic depression approximation in NHANES
+# Symptom score, C-reactive protein and metabolic markers in NHANES
 
-R code, data and results for "Prevalence and Metabolic Correlates of a Questionnaire-Based Approximation of Immuno-Metabolic Depression in United States Adults" (NHANES 2015-2016, 2017-2018 and 2021-2023).
+R code, data and results for "Sleep, Fatigue, Appetite and Psychomotor Symptoms, C-Reactive Protein and Metabolic Markers in United States Adults with Depression" (NHANES 2015-2016, 2017-2018 and 2021-2023).
 
 ## Folders
 
